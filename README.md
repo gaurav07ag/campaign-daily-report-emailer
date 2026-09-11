@@ -8,7 +8,7 @@ Automated daily campaign performance reports pulled from a VICIdial dialer insta
 - Parses the raw report data (call stats, pause breakdown, hangup/status stats)....
 - Tracks **year-to-date NONPAUSE hours** against a quota target per campaign.
 - Builds a formatted HTML email report per campaign.
-- Sends the report to each campaign's mapped client email(s), with a shared CC list.
+- Sends the report to each campaign's mapped client email(s), with a shared CC list......
 - Runs on a daily schedule, or can be triggered manually for testing.
 
 ## Requirements
