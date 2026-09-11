@@ -5,7 +5,7 @@ Automated daily campaign performance reports pulled from a VICIdial dialer insta
 ## What it does
 
 - Fetches **agent performance** and **outbound calling stats** from VICIdial's admin reporting pages for each campaign.
-- Parses the raw report data (call stats, pause breakdown, hangup/status stats).
+- Parses the raw report data (call stats, pause breakdown, hangup/status stats)....
 - Tracks **year-to-date NONPAUSE hours** against a quota target per campaign.
 - Builds a formatted HTML email report per campaign.
 - Sends the report to each campaign's mapped client email(s), with a shared CC list.
