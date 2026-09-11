@@ -1,6 +1,6 @@
 # Campaign Daily Report Emailer
 
-Automated daily campaign performance reports pulled from a VICIdial dialer instance, formatted into HTML, and emailed to per-campaign client recipients.
+Automated daily campaign performance reports pulled from a VICIdial dialer instance, formatted into HTML, and emailed to per-campaign client recipients.....
 
 ## What it does
 
