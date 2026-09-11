@@ -16,7 +16,7 @@ Automated daily campaign performance reports pulled from a VICIdial dialer insta
 - Python 3.8+
 - Packages: `requests`, `urllib3`, `beautifulsoup4`, `schedule`
 
-Install dependencies:
+Install dependencies:----
 ```bash
 pip install requests urllib3 beautifulsoup4 schedule
 ```
